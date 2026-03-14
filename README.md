@@ -1,6 +1,6 @@
 # 🎓 AI University Admission Chatbot
 
-![Chatbot Demo](screenshot.png)
+![https://muhammadjunaidai.streamlit.app](screenshot.png)
 
 An AI-powered chatbot that answers questions about university admissions using **Natural Language Processing (NLP)** and **Machine Learning**. The chatbot provides instant responses about programs, scholarships, application requirements, and deadlines.
 
