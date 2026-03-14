@@ -1,21 +1,25 @@
-# AI University Admission Chatbot
+# 🎓 AI University Admission Chatbot
 
-This project is an AI chatbot that answers questions related to university admissions.
+![Chatbot Demo](screenshot.png)
 
-## Features
-- Answer admission questions
-- NLP-based response system
-- Streamlit web interface
+An AI-powered chatbot that answers questions about university admissions using **Natural Language Processing (NLP)** and **Machine Learning**. The chatbot provides instant responses about programs, scholarships, application requirements, and deadlines.
 
-## Technologies
-Python
-Streamlit
-Scikit-learn
-Pandas
-NLP
+---
 
-## Run the Project
+## 🔹 Features
 
-pip install -r requirements.txt
+- Interactive **chat interface** with chat history  
+- NLP-based question matching for accurate responses  
+- Provides **admission guidance** for students  
+- Fast and easy-to-use **Streamlit web interface**  
+- Can be extended for **multiple universities or programs**  
 
-streamlit run app.py
+---
+
+## 🛠 Technologies Used
+
+- **Python** – Core programming language  
+- **Scikit-learn** – TF-IDF vectorization & similarity matching  
+- **Pandas** – Dataset management  
+- **NLP** – Natural Language Processing for question understanding  
+- **Streamlit** – Web app interface  
